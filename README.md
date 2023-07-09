@@ -1,16 +1,43 @@
-### Hi there 👋
+# Welcome to my GitHub! ✪ ω ✪
 
-<!--
-**LorenteDev/LorenteDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## whoIs();
 
-Here are some ideas to get you started:
+I'm Elena, a front-end web developer with 3 years of experience, mostly using Vue.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## getSkills();
+
+```JSON
+[
+  "Vue",
+  "JavaScript",
+  "HTML",
+  "CSS",
+  "Python"
+]
+```
+
+## getGoals();
+
+```JSON
+{
+  "improve": [
+    "Vue",
+    "TypeScript",
+    "React",
+    "Flutter"
+  ],
+  "learn": [
+    "React Native",
+  ]
+}
+```
+
+## getCurrentRoles();
+
+💻 Working in remote full-time in [iSalud](https://www.doctori.com/)  
+🕹 Developing [Second Player Hub](https://manifest-canto-391721.web.app/) front-end for fun, based on given designs, in my free time  
+
+## howToReach();
+
+🔗 https://www.linkedin.com/in/elena-lorente-borrego/  
+✉ lorentedev@gmail.com  
