@@ -21,6 +21,7 @@ I'm Elena, a front-end web developer with 3 years of experience, mostly using Vu
 ```JSON
 {
   "improve": [
+    "JavaScript",
     "Vue",
     "TypeScript",
     "React",
