@@ -12,24 +12,27 @@ I'm Elena, a front-end web developer with 3 years of experience, mostly using Vu
   "JavaScript",
   "HTML",
   "CSS",
-  "SASS",
-  "Python"
+  "SASS"
 ]
 ```
 
 ## getGoals();
 
-```JSON
+```JS
 {
   "improve": [
-    "JavaScript",
-    "Vue",
+    ...getSkills(),
     "TypeScript",
     "React",
-    "Flutter"
+    "Python"
   ],
   "learn": [
+    "Nuxt.js"
     "React Native",
+    "Jest",
+    "Flutter",
+    "Svelte",
+    "Tauri"
   ]
 }
 ```
