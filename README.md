@@ -12,7 +12,7 @@ I'm Elena, a front-end web developer with 3 years of experience, mostly using Vu
   "JavaScript",
   "HTML",
   "CSS",
-  "SASS"
+  "SCSS/SASS"
 ]
 ```
 
