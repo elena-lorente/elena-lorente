@@ -40,7 +40,6 @@ I'm Elena, a front-end web developer with 3 years of experience, mostly using Vu
 ## getCurrentRoles();
 
 💻 Working in remote full-time in [iSalud](https://www.doctori.com/)  
-🕹 Developing [Second Player Hub](https://manifest-canto-391721.web.app/) front-end for fun, based on given designs, in my free time  
 
 ## howToReach();
 
