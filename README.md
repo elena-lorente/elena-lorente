@@ -40,7 +40,7 @@ I'm Elena, a front-end web developer with 3 years of experience, mostly using Vu
 
 ## getCurrentRoles();
 
-💻 Working in remote full-time in [iSalud](https://www.doctori.com/)  
+💻 Working as front-end developer using Vue 3 in remote full-time in [iSalud](https://www.doctori.com/)  
 
 ## howToReach();
 
