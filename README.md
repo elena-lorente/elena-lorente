@@ -24,10 +24,11 @@ I'm Elena, a front-end web developer with 3 years of experience, mostly using Vu
     ...getSkills(),
     "TypeScript",
     "React",
-    "Python"
+    "Python",
+    "Nuxt"
   ],
   "learn": [
-    "Nuxt"
+    "Next",
     "Ember",
     "React Native",
     "Jest",
