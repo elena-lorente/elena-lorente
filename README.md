@@ -2,7 +2,7 @@
 
 ## whoIs();
 
-I'm Elena, a front-end web developer with 3 years of experience, mostly using Vue.
+I'm Elena, a front-end web developer with over 3 years of experience, mainly working with Vue.
 
 ## getSkills();
 
@@ -12,7 +12,11 @@ I'm Elena, a front-end web developer with 3 years of experience, mostly using Vu
   "JavaScript",
   "HTML",
   "CSS",
-  "SCSS/SASS"
+  "SASS",
+  "TypeScript",
+  "Vite",
+  "Vitest",
+  "Nuxt"
 ]
 ```
 
@@ -22,18 +26,14 @@ I'm Elena, a front-end web developer with 3 years of experience, mostly using Vu
 {
   "improve": [
     ...getSkills(),
-    "TypeScript",
     "React",
-    "Python",
-    "Nuxt"
+    "Python"
   ],
   "learn": [
-    "Next",
-    "Ember",
     "React Native",
-    "Jest",
+    "Next",
     "Flutter",
-    "Svelte",
+    "Electron",
     "Tauri"
   ]
 }
@@ -41,7 +41,7 @@ I'm Elena, a front-end web developer with 3 years of experience, mostly using Vu
 
 ## getCurrentRoles();
 
-💻 Working as front-end developer using Vue 3 in remote full-time in [iSalud](https://www.doctori.com/)  
+💻 I work remotely as a front-end developer, utilizing Vue 3, Vite, and Nuxt, on a full-time basis for [iSalud](https://www.doctori.com/)  
 
 ## howToReach();
 
