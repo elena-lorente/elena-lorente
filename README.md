@@ -27,16 +27,29 @@ I'm Elena, a front-end web developer with over 3 years of experience, mainly wor
   "improve": [
     ...getSkills(),
     "React",
-    "Python"
+    "Python",
+    "MongoDB"
   ],
   "learn": [
+    "VueUse",
+    "Tailwind",
+    "Playwright",
+    "Storybook",
     "React Native",
+    "Tauri",
     "Next",
-    "Flutter",
     "Electron",
-    "Tauri"
   ]
 }
+```
+
+## getLanguages();
+
+```JS
+[
+  "Spanish",
+  "English"
+]
 ```
 
 ## getCurrentRoles();
@@ -55,4 +68,4 @@ Working on more personal projects!
 <br />
 <br />
 
-<img src="Felix_Argyle_Scared_By_JavaScript_The_Good_Parts.png" />
+[<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/VueJS/Renge_Miyauchi_VueJS.png" height="450" />](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
