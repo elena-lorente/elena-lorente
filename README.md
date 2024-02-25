@@ -13,6 +13,7 @@ I'm Elena, a front-end web developer with over 3 years of experience, mainly wor
   "HTML",
   "CSS",
   "SASS",
+  "PostCSS",
   "TypeScript",
   "Vite",
   "Vitest",
@@ -28,17 +29,19 @@ I'm Elena, a front-end web developer with over 3 years of experience, mainly wor
     ...getSkills(),
     "React",
     "Python",
-    "MongoDB"
   ],
   "learn": [
-    "VueUse",
-    "Tailwind",
-    "Playwright",
     "Storybook",
+    "Tailwind",
+    "VueUse",
+    "Playwright",
+    "Astro",
+    "Next",
     "React Native",
     "Tauri",
-    "Next",
     "Electron",
+    "Hono",
+    "Three.js"
   ]
 }
 ```
