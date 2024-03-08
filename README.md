@@ -16,7 +16,6 @@ I'm Elena, a front-end web developer with over 3 years of experience, mainly wor
   "PostCSS",
   "TypeScript",
   "Vite",
-  "Vitest",
   "Nuxt"
 ]
 ```
@@ -27,6 +26,7 @@ I'm Elena, a front-end web developer with over 3 years of experience, mainly wor
 {
   "improve": [
     ...getSkills(),
+    "Vitest",
     "Storybook"
     "React",
     "Python",
