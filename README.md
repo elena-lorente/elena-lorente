@@ -60,7 +60,7 @@ I'm Elena, a front-end web developer with over 3 years of experience, mainly wor
 💻 I work remotely as a front-end developer, utilizing Vue 3, Vite, and Nuxt, on a full-time basis for [iSalud](https://www.doctori.com/)  
 
 ## getPersonalProjects();
-[Custom Vue Video Player 📺](https://github.com/LorenteDev/vue-video-player)  
+[Custom Vue Video Player 📺](https://github.com/elena-lorente/vue-video-player)  
 Working on more personal projects!
 
 ## howToReach();
