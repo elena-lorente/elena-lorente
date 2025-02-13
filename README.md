@@ -2,7 +2,7 @@
 
 ## whoIs();
 
-I'm Elena, a front-end web developer with over 3 years of experience, mainly working with Vue.
+I'm Elena, a front-end web developer with over 4 years of experience, mainly working with Vue.
 
 ## getSkills();
 
