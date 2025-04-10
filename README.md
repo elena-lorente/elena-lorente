@@ -66,7 +66,7 @@ Working on more personal projects!
 ## howToReach();
 
 🔗 https://www.linkedin.com/in/elena-lorente-borrego/  
-✉ lorentedev@gmail.com  
+✉ lorente.elena@pm.me  
   
 <br />
 <br />
