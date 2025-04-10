@@ -16,7 +16,11 @@ I'm Elena, a front-end web developer with over 4 years of experience, mainly wor
   "PostCSS",
   "TypeScript",
   "Vite",
-  "Nuxt"
+  "Nuxt",
+  "Linux",
+  "Vee-validate",
+  "Vuetify",
+  "Ant Design",
 ]
 ```
 
@@ -27,9 +31,9 @@ I'm Elena, a front-end web developer with over 4 years of experience, mainly wor
   "improve": [
     ...getSkills(),
     "Vitest",
-    "Storybook"
     "React",
-    "Python",
+    "Storybook"
+    "Python"
   ],
   "learn": [
     "Tailwind",
