@@ -2,7 +2,7 @@
 
 ## whoIs();
 
-I'm Elena, a front-end web developer with over 4 years of experience, mainly working with Vue.
+I'm Elena, a front-end web developer with over 5 years of experience, mainly working with Vue.
 
 ## getSkills();
 
@@ -16,10 +16,12 @@ I'm Elena, a front-end web developer with over 4 years of experience, mainly wor
   "PostCSS",
   "TypeScript",
   "Vite",
+  "Pinia",
   "Nuxt",
   "Linux",
   "Vee-validate",
   "Vuetify",
+  "Storybook",
   "Ant Design",
 ]
 ```
@@ -32,13 +34,11 @@ I'm Elena, a front-end web developer with over 4 years of experience, mainly wor
     ...getSkills(),
     "Vitest",
     "React",
-    "Storybook"
     "Python"
   ],
   "learn": [
     "Tailwind",
     "VueUse",
-    "Playwright",
     "Astro",
     "Next",
     "React Native",
