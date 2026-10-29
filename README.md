@@ -1,75 +1,53 @@
-# Welcome to my GitHub! ✪ ω ✪
+# Hi, I'm Elena ✪ ω ✪
+
+I build web interfaces with Vue and Nuxt, with a focus on accessibility, performance and mobile.
 
 ## whoIs();
 
-I'm Elena, a front-end web developer with over 5 years of experience, mainly working with Vue.
-
-## getSkills();
-
-```JSON
-[
-  "Vue",
-  "JavaScript",
-  "HTML",
-  "CSS",
-  "SASS",
-  "PostCSS",
-  "TypeScript",
-  "Vite",
-  "Pinia",
-  "Nuxt",
-  "Linux",
-  "Vee-validate",
-  "Vuetify",
-  "Storybook",
-  "Ant Design",
-]
-```
-
-## getGoals();
-
-```JS
+```js
 {
-  "improve": [
-    ...getSkills(),
-    "Vitest",
-    "React",
-    "Python"
-  ],
-  "learn": [
-    "Tailwind",
-    "VueUse",
-    "Astro",
-    "Next",
-    "React Native",
-    "Tauri",
-    "Electron",
-    "Hono",
-    "Three.js"
-  ]
+  name: "Elena",
+  role: "Front-end developer",
+  location: "Sevilla, Spain · remote",
+  experience: "5+ years, mostly Vue",
+  languages: ["Spanish", "English"]
 }
-```
-
-## getLanguages();
-
-```JS
-[
-  "Spanish",
-  "English"
-]
 ```
 
 ## getCurrentRoles();
 
-💻 I work remotely as a front-end developer, utilizing Vue 3, Vite, and Nuxt, on a full-time basis for [iSalud](https://www.doctori.com/)  
+💻 Full-time remote front-end developer at iSalud, where I lead the front end of [Doctori](https://www.doctori.com/) with Vue 3, Nuxt and Vite.
 
+## getFocus();
+
+```js
+[
+  "Accessibility (WCAG 2.2)",
+  "Responsive, mobile-first layouts",
+  "Performance",
+  "Privacy: no trackers, no ads"
+]
+```
+
+## getSkills();
+
+```js
+{
+  frameworks: ["Vue 3", "Nuxt", "Astro", "Pinia", "VueUse"],
+  languages: ["TypeScript", "JavaScript", "HTML", "CSS", "Python"],
+  styling: ["Sass", "PostCSS", "UnoCSS", "Vuetify", "Ant Design"],
+  testing: ["Vitest", "Playwright", "axe", "Storybook"],
+  backend: ["Node.js", "Express"],
+  tooling: ["Vite", "Git", "Linux", "Cloudflare", "Vercel"],
+  ai: ["Claude Code", "Ollama"]
+}
+```
 
 ## howToReach();
 
-🔗 https://www.linkedin.com/in/elena-lorente-borrego/  
-✉ lorente.elena@pm.me  
-  
-<br />
+🔗 [LinkedIn](https://www.linkedin.com/in/elena-lorente/)  
+✉ lorente.elena@pm.me
+
 <br />
 
-[<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/VueJS/Renge_Miyauchi_VueJS.png" height="450" />](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+[<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/VueJS/Renge_Miyauchi_VueJS.png" height="450" alt="Renge Miyauchi holding a Vue.js book" />](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
